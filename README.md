@@ -12,8 +12,8 @@
 <a href="https://instagram.com/imahmad.abdullah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imahmad.abdullah" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+### Languages and Tools:
+
 - Python <br>
 - Jupiter Notebook <br>
 - Power BI <br>
@@ -21,7 +21,7 @@
 - streamlit<br>
 - Rapid Minor<br>
 - SQL <br>
-<b>Other Tools and Languages</b>
+<b>Other Tools and Languages<br></b>
 - Adobe Illustator <br>
 - Adobe LightRoom <br>
 - Adobe XD <br>
@@ -29,7 +29,7 @@
 - CSS <br>
 - JavaScript <br>
 - C++
-</p>
+
 
 <h3 align="left">Publications:</h3>
 
