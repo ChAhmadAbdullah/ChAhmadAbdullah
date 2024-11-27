@@ -32,7 +32,7 @@
 
 ### Publications:
 ##### A Literature Analysis for the Prediction of Chronic Kidney Diseases
-<I style='fontsize:4;'>A Abdullah, A Raza, Q Rasool, U Rashid, MM Aziz, S Rasool</I>
+> Ahmad Abdullah, Asif Raza, Qasir Rasool, Umair Rashid, MM Aziz, Saad Rasool
 <p align="left">
 <b> </b>
 <>
