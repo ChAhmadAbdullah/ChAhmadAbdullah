@@ -30,9 +30,9 @@
 - JavaScript <br>
 - C++
 
-
-<h3 align="left">Publications:</h3>
-
+### Publications:
+##### A Literature Analysis for the Prediction of Chronic Kidney Diseases
+<I>A Abdullah, A Raza, Q Rasool, U Rashid, MM Aziz, S Rasool</I>
 <p align="left">
 <b> </b>
 <>
