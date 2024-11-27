@@ -18,10 +18,10 @@
 - Jupiter Notebook <br>
 - Power BI <br>
 - Excel <br>
-- streamlit<br>
+- Streamlit<br>
 - Rapid Minor<br>
 - SQL <br>
-#### Other Tools and Languages
+<b> Other Tools and Languages</b>
 - Adobe Illustator <br>
 - Adobe LightRoom <br>
 - Adobe XD <br>
