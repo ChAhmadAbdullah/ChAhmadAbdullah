@@ -21,7 +21,7 @@
 - streamlit<br>
 - Rapid Minor<br>
 - SQL <br>
-# Other Tools and Languages
+#### Other Tools and Languages
 - Adobe Illustator <br>
 - Adobe LightRoom <br>
 - Adobe XD <br>
