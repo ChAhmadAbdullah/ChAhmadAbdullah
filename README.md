@@ -21,6 +21,7 @@
 - Streamlit<br>
 - Rapid Minor<br>
 - SQL <br>
+- Flask <br>
 <b> Other Tools and Languages</b>
 - Adobe Illustator <br>
 - Adobe LightRoom <br>
