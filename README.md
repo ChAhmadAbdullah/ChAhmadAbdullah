@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chahmadabdullah&label=Profile%20views&color=0e75b6&style=flat" alt="chahmadabdullah" /> </p>
 
 - 📫 How to reach me **ahmadadullah6@yahoo.com**
-- Visit my portfolio <a  herf="https://www.datascienceportfol.io/ahmadabdullah">Visit---</a>
+- Visit my portfolio <a href="https://www.datascienceportfol.io/ahmadabdullah"> Link </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
