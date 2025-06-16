@@ -46,8 +46,8 @@
 
 
 ### 📊 GitHub Stats:
-<p align="center"> ![](https://nirzak-streak-stats.vercel.app/?user=ChAhmadAbdullah&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api?username=ChAhmadAbdullah&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ChAhmadAbdullah&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/></p>
+![](https://nirzak-streak-stats.vercel.app/?user=ChAhmadAbdullah&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=ChAhmadAbdullah&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ChAhmadAbdullah&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 
 
