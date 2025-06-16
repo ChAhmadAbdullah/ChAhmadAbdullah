@@ -21,16 +21,17 @@
 - Excel <br>
 - Streamlit<br>
 - Rapid Minor<br>
-- SQL <br>
+- PostgreSQL <br>
+- FastAPI <br>
 - Flask <br>
+- React <br>
+- JavaScript <br>
+- C++
 <b> Other Tools and Languages</b>
 - Adobe Illustator <br>
 - Adobe LightRoom <br>
 - Adobe XD <br>
-- HTML <br>
-- CSS <br>
-- JavaScript <br>
-- C++
+
 
 ### Publications:
 ##### A Literature Analysis for the Prediction of Chronic Kidney Diseases
