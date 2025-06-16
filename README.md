@@ -27,7 +27,7 @@
 - React <br>
 - JavaScript <br>
 - C++
-<b> Other Tools and Languages</b>
+#### <b> Other Tools and Languages </b>
 - Adobe Illustator <br>
 - Adobe LightRoom <br>
 - Adobe XD <br>
