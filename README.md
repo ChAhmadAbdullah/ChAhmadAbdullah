@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmad Abullah</h1>
-<h3 align="center">Data Scientist & Data Analyst</h3>
+<h3 align="center">Data Scientist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chahmadabdullah&label=Profile%20views&color=0e75b6&style=flat" alt="chahmadabdullah" /> </p>
 
