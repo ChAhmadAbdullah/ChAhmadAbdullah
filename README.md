@@ -36,3 +36,10 @@
 ### Publications:
 ##### A Literature Analysis for the Prediction of Chronic Kidney Diseases
 > Ahmad Abdullah, Asif Raza, Qasir Rasool, Umair Rashid, MM Aziz, Saad Rasool
+
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ChAhmadAbdullah&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
+
