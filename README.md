@@ -46,7 +46,7 @@
 
 
 ### 📊 GitHub Stats:
-<table>
+<table style="border: none; border-collapse: collapse;>
 <tr>
   <td>
     <img src="https://github-readme-stats.vercel.app/api?username=ChAhmadAbdullah&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" title="Github Stats"/>  
@@ -62,7 +62,7 @@
 
   </td>
   <td>
-      ![](https://nirzak-streak-stats.vercel.app/?user=ChAhmadAbdullah&theme=dark&hide_border=false)
+      
   </td>
 </tr>
 </table>
