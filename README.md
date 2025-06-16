@@ -1,5 +1,12 @@
-<h1 align="center">Hi 👋, I'm Ahmad Abullah</h1>
+<h1 align="center">Hi 👋, I'm Ahmad Abdullah</h1>
 <h3 align="center">Data Scientist</h3>
+
+## About Me ☕
+
+- 🎓 **BS Computer Science** from COMSATS University Islamabad (VHR Campus)  
+- 🎓 **MS Data Science** from Bahauddin Zakariya University, Multan  
+- 🏏 **Hobbies:** Passionate about playing **cricket** and **badminton**, and always up for a friendly match!
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chahmadabdullah&label=Profile%20views&color=0e75b6&style=flat" alt="chahmadabdullah" /> </p>
 
