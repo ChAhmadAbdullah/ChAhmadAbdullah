@@ -13,6 +13,7 @@
 ## 👨‍💻 About Me
 
 🎓 **MS Data Science** — Bahauddin Zakariya University
+
 🎓 **BS Computer Science** — COMSATS University Islamabad  
 
 **Data Scientist** - with a strong academic foundation and hands-on experience in **machine learning**, **natural language processing**, and **computer vision**. My work is focused on transforming raw data into actionable insights and building intelligent systems that solve real-world problems.
